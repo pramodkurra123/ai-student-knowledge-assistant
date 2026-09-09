@@ -1,0 +1,135 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems that can perform tasks that normally require human intelligence. These tasks include learning, reasoning, problem solving, understanding language, and recognizing images.
+
+Machine Learning (ML) is a subset of Artificial Intelligence. Machine learning allows computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Deep Learning is a subset of machine learning that uses artificial neural networks with multiple layers. Deep learning is commonly used for image recognition, speech recognition, natural language processing, and video analysis.
+
+Computer Vision is a field of Artificial Intelligence that enables computers to understand and analyze images and videos. Applications include face recognition, object detection, medical image analysis, and human activity recognition.
+
+Natural Language Processing (NLP) is a field of AI that allows computers to understand, process, and generate human language. Chatbots, language translation, sentiment analysis, and text summarization are examples of NLP applications.
+
+Python is a popular programming language used in Artificial Intelligence and machine learning because it has a simple syntax and many useful libraries. Common AI libraries include NumPy, Pandas, Scikit-learn, PyTorch, and TensorFlow.
+
+PyTorch is an open-source machine learning framework developed by Meta. It is widely used for deep learning research and applications. PyTorch provides tools for building neural networks, training models, and working with tensors.
+
+TensorFlow is an open-source machine learning framework developed by Google. It can be used to build, train, and deploy machine learning and deep learning models.
+
+Neural Networks are computational models inspired by the human brain. They consist of interconnected nodes called neurons, usually organized into input, hidden, and output layers.
+
+A Convolutional Neural Network (CNN) is a deep learning model commonly used for image and video processing. CNNs are effective at identifying features such as edges, shapes, textures, and objects.
+
+Human Activity Recognition (HAR) is the process of identifying human activities from sensor data, images, or video. Activities can include walking, running, sitting, standing, jumping, and falling.
+
+Cybersecurity is the practice of protecting computers, networks, applications, and data from unauthorized access, attacks, and damage.
+
+A cyber attack is an attempt to gain unauthorized access to systems, steal information, disrupt services, or damage computer networks.
+
+Phishing is a cyber attack in which attackers use fake emails, messages, or websites to trick users into revealing sensitive information such as passwords or banking details.
+
+Malware is malicious software designed to damage systems, steal information, or gain unauthorized access. Examples include viruses, worms, ransomware, spyware, and trojans.
+
+Ransomware is a type of malware that encrypts a victim's files and demands payment to restore access.
+
+Encryption is the process of converting readable information into an encoded form so that unauthorized users cannot understand it.
+
+Authentication is the process of verifying the identity of a user or system. Passwords, OTPs, fingerprints, and facial recognition are examples of authentication methods.
+
+Authorization determines what resources or actions an authenticated user is allowed to access.
+
+SQL stands for Structured Query Language. SQL is used to store, retrieve, modify, and manage data in relational databases.
+
+A database is an organized collection of data that can be stored, accessed, and managed efficiently.
+
+RAG stands for Retrieval-Augmented Generation. RAG combines information retrieval with language generation. First, relevant information is retrieved from a knowledge base, and then the retrieved information can be used to generate a better answer.
+
+A vector database stores data as numerical vectors called embeddings. Vector databases are commonly used for semantic search and Retrieval-Augmented Generation systems.
+
+An embedding is a numerical representation of text, images, or other data. Similar meanings can be represented by vectors that are close to each other in vector space.
+
+TF-IDF stands for Term Frequency-Inverse Document Frequency. It is a technique used to represent text numerically and identify important words in documents.
+
+Cosine similarity measures how similar two vectors are. It is commonly used in information retrieval and text similarity systems.
+
+A multi-agent AI system consists of multiple specialized agents that work together to complete a task. Different agents can perform tasks such as routing, retrieval, analysis, planning, and response generation.
+
+A Retrieval Agent searches a knowledge base and finds information relevant to a user's question.
+
+An Analysis Agent processes retrieved information and helps determine how the information relates to the user's question.
+
+A Router Agent determines which agent or workflow should handle a particular user request.
+
+An Answer Agent generates the final response using information collected by other agents.
+
+Generative AI is a type of artificial intelligence that can create new content such as text, images, audio, video, and computer code.
+
+Large Language Models (LLMs) are AI models trained on large amounts of text data. They can perform tasks such as answering questions, summarizing text, generating content, and assisting with programming.
+
+Prompt engineering is the process of designing effective instructions or prompts for an AI model to produce useful and accurate outputs.
+
+AI agents are systems that can perceive information, reason about a task, use tools, and perform actions to achieve a goal.
+
+Supervised learning is a machine learning approach where a model learns from labeled training data. The model learns the relationship between inputs and known outputs.
+
+Unsupervised learning is a machine learning approach where the model learns patterns from data without predefined labels.
+
+Classification is a machine learning task where data is assigned to predefined categories. For example, an email can be classified as spam or not spam.
+
+Regression is a machine learning task used to predict continuous numerical values, such as house prices or temperature.
+
+Clustering is an unsupervised learning technique that groups similar data points together.
+
+Training is the process of teaching a machine learning model using data so that it can learn useful patterns.
+
+Testing is the process of evaluating a trained machine learning model using data that was not used during training.
+
+Overfitting occurs when a machine learning model learns the training data too closely and performs poorly on new, unseen data.
+
+Underfitting occurs when a model is too simple to learn the important patterns in the training data.
+
+Accuracy is a classification metric that measures the percentage of predictions that are correct.
+
+Precision measures how many of the samples predicted as positive are actually positive.
+
+Recall measures how many of the actual positive samples were correctly identified by the model.
+
+The F1-score is a metric that combines precision and recall into a single score.
+
+Data preprocessing is the process of cleaning and preparing data before using it for machine learning. It may include handling missing values, removing duplicates, normalization, and feature selection.
+
+A feature is an individual measurable property or characteristic used by a machine learning model.
+
+A dataset is a collection of data used for analysis, training, testing, or evaluation.
+
+An API, or Application Programming Interface, allows different software applications to communicate with each other.
+
+A web application is a software application that runs through a web browser. HTML, CSS, JavaScript, Python, and databases can be used to build web applications.
+
+Streamlit is a Python framework that allows developers to quickly create interactive web applications for data science and machine learning projects.
+
+VS Code is a source-code editor developed by Microsoft. It supports many programming languages and provides features such as debugging, extensions, and integrated terminals.
+
+Git is a distributed version control system used to track changes in source code and collaborate on software projects.
+
+GitHub is a platform for hosting Git repositories and collaborating on software development projects.
+
+Cloud computing provides computing resources such as servers, storage, databases, and software over the internet.
+
+Artificial Intelligence can be used in healthcare for medical image analysis, disease prediction, patient monitoring, and clinical decision support.
+
+Artificial Intelligence can be used in cybersecurity to detect suspicious activity, identify malware, detect network anomalies, and automate security monitoring.
+
+AI-based surveillance systems can analyze video streams to detect objects, people, and activities automatically.
+
+Human Activity Recognition can support surveillance and safety monitoring by automatically identifying activities such as walking, running, falling, sitting, and standing.
+
+The main advantage of a multi-agent system is that complex tasks can be divided into smaller specialized tasks. Each agent can focus on a particular responsibility.
+
+The main advantage of RAG is that an AI system can retrieve relevant information from an external knowledge base instead of relying only on information stored inside a language model.
+
+A limitation of a simple TF-IDF based RAG system is that it mainly matches words and may not understand the deeper semantic meaning of a question.
+
+A better RAG system can use embedding models and vector databases to perform semantic retrieval.
+
+FAISS is a library developed by Meta for efficient similarity search and clustering of dense vectors. It can be used to build fast vector search systems.
+
+Sentence Transformers is a Python library that can convert sentences and paragraphs into meaningful numerical embeddings. These embeddings can be used for semantic similarity and search.
